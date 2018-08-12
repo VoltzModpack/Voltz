@@ -1,5 +1,5 @@
 #MODPACK VERSION: 0.3.0
-#Fri Aug 10 02:23:31 EDT 2018
+#Sat Aug 11 22:29:13 EDT 2018
 mine-factory-reloaded=2.8.1
 mekanism-generators=9.1.1
 biomes-o-plenty=2.1.0
@@ -8,6 +8,7 @@ numina=0.4.1.0-kmecpp
 coding-lib=0.2.8b51
 nuclear-physics=0.1.37
 open-computers=1.7.2+2b0215bdb
+big-reactors=0.4.3A
 no-more-recipe-conflict=0.3
 mekanism=9.1.1
 nei-addons=1.12.14.40
@@ -21,7 +22,7 @@ mekanism-tools=9.1.1
 not-enough-items=1.0.5.120
 bd-lib=1.9.4.109
 iron-chest=6.0.62.742
-cofh-core=3.1.4
+cofh-core=3.1.5
 modular-powersuits=1.7.10-0.11.1.114
 galacticraft-core=3.0.12
 forge-multipart=1.1.2.331
@@ -29,6 +30,9 @@ icbm-classic=2.16.4b238
 waila=1.5.10_1.7.10
 extra-cells-2=2.3.14
 code-chicken-lib=1.1.3.138
+flat-bedrock=1.0.2
+ambience=1.0-3
 in-game-wiki-mod=1.1.12-34
 xaeros-minimap=1.14 Fair-Play
+inventory-tweaks=1.59-dev-152-cf6e263
 micdoodle-core=3.0.12.504

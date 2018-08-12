@@ -352,6 +352,37 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
+BigReactors:YelloriteOre:0, Yellorite Ore
+BigReactors:BRMetalBlock:0, Yellorium Block
+BigReactors:BRMetalBlock:1, Cyanite Block
+BigReactors:BRMetalBlock:2, Graphite Block
+BigReactors:BRMetalBlock:3, Blutonium Block
+BigReactors:BRMetalBlock:4, Ludicrite Block
+BigReactors:YelloriumFuelRod, Yellorium Fuel Rod
+BigReactors:BRReactorPart:0, Reactor Casing
+BigReactors:BRReactorPart:1, Reactor Controller
+BigReactors:BRReactorPart:2, Reactor Control Rod
+BigReactors:BRReactorPart:3, Reactor Power Tap
+BigReactors:BRReactorPart:4, Reactor Access Port
+BigReactors:BRReactorPart:5, Reactor Coolant Port
+BigReactors:BRReactorPart:6, Reactor RedNet Port
+BigReactors:BRReactorPart:7, Reactor Computer Port
+BigReactors:BRMultiblockGlass:0, Reactor Glass
+BigReactors:BRMultiblockGlass:1, Turbine Glass
+BigReactors:BRReactorRedstonePort, Reactor Redstone Port
+BigReactors:BRTurbinePart:0, Turbine Housing
+BigReactors:BRTurbinePart:1, Turbine Controller
+BigReactors:BRTurbinePart:2, Turbine Power Port
+BigReactors:BRTurbinePart:3, Turbine Fluid Port
+BigReactors:BRTurbinePart:4, Turbine Rotor Bearing
+BigReactors:BRTurbinePart:5, Turbine Computer Port
+BigReactors:BRTurbineRotorPart:0, Turbine Rotor Shaft
+BigReactors:BRTurbineRotorPart:1, Turbine Rotor Blade
+BigReactors:BRDevice:0, Cyanite Reprocesssor
+BigReactors:tile.fluid.yellorium.still, Fluid Yellorium
+BigReactors:tile.fluid.cyanite.still, Fluid Cyanite
+BigReactors:BRMultiblockCreativePart:0, Reactor Creative Coolant Port
+BigReactors:BRMultiblockCreativePart:1, Turbine Creative Steam Generator
 BiomesOPlenty:mud:0, Mud
 BiomesOPlenty:mud:1, Quicksand
 BiomesOPlenty:driedDirt, Dried Dirt
@@ -363,74 +394,6 @@ BiomesOPlenty:rocks:4, Shale
 BiomesOPlenty:rocks:5, Polished Shale
 BiomesOPlenty:ash, Ash Block
 BiomesOPlenty:flesh, Flesh
-BiomesOPlenty:plants:0, Dead Grass
-BiomesOPlenty:plants:1, Desert Grass
-BiomesOPlenty:plants:2, Desert Sprouts
-BiomesOPlenty:plants:3, Dune Grass
-BiomesOPlenty:plants:4, Spectral Fern
-BiomesOPlenty:plants:5, Thorns
-BiomesOPlenty:plants:6, Wild Rice
-BiomesOPlenty:plants:7, Cattail
-BiomesOPlenty:plants:8, River Cane
-BiomesOPlenty:plants:12, Tiny Cactus
-BiomesOPlenty:plants:13, Wither Wart
-BiomesOPlenty:plants:14, Reed
-BiomesOPlenty:plants:15, Root
-BiomesOPlenty:flowers:0, Clover
-BiomesOPlenty:flowers:1, Swampflower
-BiomesOPlenty:flowers:2, Deathbloom
-BiomesOPlenty:flowers:3, Glowflower
-BiomesOPlenty:flowers:4, Blue Hydrangea
-BiomesOPlenty:flowers:5, Orange Cosmos
-BiomesOPlenty:flowers:6, Pink Daffodil
-BiomesOPlenty:flowers:7, Wildflower
-BiomesOPlenty:flowers:8, Violet
-BiomesOPlenty:flowers:9, White Anemone
-BiomesOPlenty:flowers:10, Waterlily
-BiomesOPlenty:flowers:11, Enderlotus
-BiomesOPlenty:flowers:12, Bromeliad
-BiomesOPlenty:flowers:13, Eyebulb
-BiomesOPlenty:flowers:15, Dandelion Puff
-BiomesOPlenty:flowers2:0, Pink Hibiscus
-BiomesOPlenty:flowers2:1, Lily of the Valley
-BiomesOPlenty:flowers2:2, Burning Blossom
-BiomesOPlenty:flowers2:3, Lavender
-BiomesOPlenty:flowers2:4, Goldenrod
-BiomesOPlenty:flowers2:5, Bluebells
-BiomesOPlenty:flowers2:6, Miner's Delight
-BiomesOPlenty:flowers2:7, Icy Iris
-BiomesOPlenty:flowers2:8, Rose
-BiomesOPlenty:stoneFormations:0, Stalagmite
-BiomesOPlenty:stoneFormations:1, Stalactite
-BiomesOPlenty:mushrooms:0, Toadstool
-BiomesOPlenty:mushrooms:1, Portobello
-BiomesOPlenty:mushrooms:2, Blue Milk Cap
-BiomesOPlenty:mushrooms:3, Glowshroom
-BiomesOPlenty:mushrooms:4, Flat Mushroom
-BiomesOPlenty:mushrooms:5, Shadow Shroom
-BiomesOPlenty:willow, Willow
-BiomesOPlenty:ivy, Ivy
-BiomesOPlenty:treeMoss, Tree Moss
-BiomesOPlenty:flowerVine, Flowering Vines
-BiomesOPlenty:wisteria, Wisteria
-BiomesOPlenty:lilyBop:0, Medium Lily Pad
-BiomesOPlenty:lilyBop:1, Small Lily Pad
-BiomesOPlenty:lilyBop:2, Tiny Lily Pad
-BiomesOPlenty:foliage:0, Duckweed
-BiomesOPlenty:foliage:1, Short Grass
-BiomesOPlenty:foliage:2, Medium Grass
-BiomesOPlenty:foliage:3, Flax
-BiomesOPlenty:foliage:4, Bush
-BiomesOPlenty:foliage:5, Sprout
-BiomesOPlenty:foliage:7, Poison Ivy
-BiomesOPlenty:foliage:8, Berry Bush
-BiomesOPlenty:foliage:9, Shrub
-BiomesOPlenty:foliage:10, Wheat Grass
-BiomesOPlenty:foliage:11, Damp Grass
-BiomesOPlenty:foliage:12, Koru
-BiomesOPlenty:foliage:13, Clover Patch
-BiomesOPlenty:foliage:14, Leaf Pile
-BiomesOPlenty:foliage:15, Dead Leaf Pile
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -695,6 +658,80 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, Minecart with TNT
 minecraft:hopper_minecart, Minecart with Hopper
+BiomesOPlenty:plants:0, Dead Grass
+BiomesOPlenty:plants:1, Desert Grass
+BiomesOPlenty:plants:2, Desert Sprouts
+BiomesOPlenty:plants:3, Dune Grass
+BiomesOPlenty:plants:4, Spectral Fern
+BiomesOPlenty:plants:5, Thorns
+BiomesOPlenty:plants:6, Wild Rice
+BiomesOPlenty:plants:7, Cattail
+BiomesOPlenty:plants:8, River Cane
+BiomesOPlenty:plants:12, Tiny Cactus
+BiomesOPlenty:plants:13, Wither Wart
+BiomesOPlenty:plants:14, Reed
+BiomesOPlenty:plants:15, Root
+BiomesOPlenty:flowers:0, Clover
+BiomesOPlenty:flowers:1, Swampflower
+BiomesOPlenty:flowers:2, Deathbloom
+BiomesOPlenty:flowers:3, Glowflower
+BiomesOPlenty:flowers:4, Blue Hydrangea
+BiomesOPlenty:flowers:5, Orange Cosmos
+BiomesOPlenty:flowers:6, Pink Daffodil
+BiomesOPlenty:flowers:7, Wildflower
+BiomesOPlenty:flowers:8, Violet
+BiomesOPlenty:flowers:9, White Anemone
+BiomesOPlenty:flowers:10, Waterlily
+BiomesOPlenty:flowers:11, Enderlotus
+BiomesOPlenty:flowers:12, Bromeliad
+BiomesOPlenty:flowers:13, Eyebulb
+BiomesOPlenty:flowers:15, Dandelion Puff
+BiomesOPlenty:flowers2:0, Pink Hibiscus
+BiomesOPlenty:flowers2:1, Lily of the Valley
+BiomesOPlenty:flowers2:2, Burning Blossom
+BiomesOPlenty:flowers2:3, Lavender
+BiomesOPlenty:flowers2:4, Goldenrod
+BiomesOPlenty:flowers2:5, Bluebells
+BiomesOPlenty:flowers2:6, Miner's Delight
+BiomesOPlenty:flowers2:7, Icy Iris
+BiomesOPlenty:flowers2:8, Rose
+BiomesOPlenty:stoneFormations:0, Stalagmite
+BiomesOPlenty:stoneFormations:1, Stalactite
+BiomesOPlenty:mushrooms:0, Toadstool
+BiomesOPlenty:mushrooms:1, Portobello
+BiomesOPlenty:mushrooms:2, Blue Milk Cap
+BiomesOPlenty:mushrooms:3, Glowshroom
+BiomesOPlenty:mushrooms:4, Flat Mushroom
+BiomesOPlenty:mushrooms:5, Shadow Shroom
+BiomesOPlenty:willow, Willow
+BiomesOPlenty:ivy, Ivy
+BiomesOPlenty:treeMoss, Tree Moss
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
+BiomesOPlenty:flowerVine, Flowering Vines
+BiomesOPlenty:wisteria, Wisteria
+BiomesOPlenty:lilyBop:0, Medium Lily Pad
+BiomesOPlenty:lilyBop:1, Small Lily Pad
+BiomesOPlenty:lilyBop:2, Tiny Lily Pad
+BiomesOPlenty:foliage:0, Duckweed
+BiomesOPlenty:foliage:1, Short Grass
+BiomesOPlenty:foliage:2, Medium Grass
+BiomesOPlenty:foliage:3, Flax
+BiomesOPlenty:foliage:4, Bush
+BiomesOPlenty:foliage:5, Sprout
+BiomesOPlenty:foliage:7, Poison Ivy
+BiomesOPlenty:foliage:8, Berry Bush
+BiomesOPlenty:foliage:9, Shrub
+BiomesOPlenty:foliage:10, Wheat Grass
+BiomesOPlenty:foliage:11, Damp Grass
+BiomesOPlenty:foliage:12, Koru
+BiomesOPlenty:foliage:13, Clover Patch
+BiomesOPlenty:foliage:14, Leaf Pile
+BiomesOPlenty:foliage:15, Dead Leaf Pile
 BiomesOPlenty:turnip, Turnip
 BiomesOPlenty:coral1:11, Kelp
 BiomesOPlenty:coral1:12, Pink Coral
@@ -706,12 +743,6 @@ BiomesOPlenty:ashStone, Ash Stone
 BiomesOPlenty:hardIce, Hardened Ice
 BiomesOPlenty:appleLeaves:0, Apple Leaves
 BiomesOPlenty:persimmonLeaves:0, Persimmon Leaves
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 BiomesOPlenty:moss, Moss
 BiomesOPlenty:bamboo, Bamboo
 BiomesOPlenty:mudBricks, Mud Bricks
@@ -1476,8 +1507,8 @@ mffs:forceFieldProjector, Force Field Projector
 mffs:fortronCapacitor, Fortron Capacitor
 mffs:interdictionMatrix, Interdiction Matrix
 nuclearphysics:plasma, Plasma
-nuclearphysics:uranium_hexafluoride, Uranium Hexafluoride
 nuclearphysics:toxic_waste, Toxic Waste
+nuclearphysics:uranium_hexafluoride, Uranium Hexafluoride
 nuclearphysics:blockControlRod, Control Rod
 nuclearphysics:blockElectricTurbine, Electric Turbine
 nuclearphysics:blockElectromagnet,:0, Electromagnet
@@ -1675,6 +1706,12 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellorite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellorium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyanite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Graphite Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blutonium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ludicrite Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dried Dirt
@@ -2093,6 +2130,19 @@ appliedenergistics2:item.ItemMultiPart:220, ME Storage Bus
 appliedenergistics2:item.ItemMultiPart:400, ME Storage Monitor
 appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
+BigReactors:BRIngot:0, Yellorium Ingot
+BigReactors:BRIngot:1, Cyanite Ingot
+BigReactors:BRIngot:2, Graphite Bar
+BigReactors:BRIngot:3, Blutonium Ingot
+BigReactors:BRIngot:4, Yellorium Dust
+BigReactors:BRIngot:5, Cyanite Dust
+BigReactors:BRIngot:6, Graphite Dust
+BigReactors:BRIngot:7, Blutonium Dust
+BigReactors:BRIngot:8, Ludicrite Ingot
+BigReactors:BRIngot:9, Ludicrite Dust
+BigReactors:bucketYellorium, Fluid Yellorium Bucket
+BigReactors:bucketCyanite, Fluid Cyanite Bucket
+BigReactors:BRDebugTool, BeefTronic™ Diagnostics Tool
 BiomesOPlenty:food:0, Berry
 BiomesOPlenty:food:1, Shroom Powder
 BiomesOPlenty:food:2, Wild Carrots
