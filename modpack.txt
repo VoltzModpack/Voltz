@@ -1,5 +1,5 @@
-#MODPACK VERSION: 0.3.0
-#Sat Aug 11 22:29:13 EDT 2018
+#MODPACK VERSION: 0.3.1
+#Wed Aug 15 14:38:06 EDT 2018
 mine-factory-reloaded=2.8.1
 mekanism-generators=9.1.1
 biomes-o-plenty=2.1.0

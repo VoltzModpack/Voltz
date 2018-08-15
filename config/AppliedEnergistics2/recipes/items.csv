@@ -1507,8 +1507,8 @@ mffs:forceFieldProjector, Force Field Projector
 mffs:fortronCapacitor, Fortron Capacitor
 mffs:interdictionMatrix, Interdiction Matrix
 nuclearphysics:plasma, Plasma
-nuclearphysics:toxic_waste, Toxic Waste
 nuclearphysics:uranium_hexafluoride, Uranium Hexafluoride
+nuclearphysics:toxic_waste, Toxic Waste
 nuclearphysics:blockControlRod, Control Rod
 nuclearphysics:blockElectricTurbine, Electric Turbine
 nuclearphysics:blockElectromagnet,:0, Electromagnet
