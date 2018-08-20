@@ -1506,8 +1506,8 @@ mffs:forceField, Force Field
 mffs:forceFieldProjector, Force Field Projector
 mffs:fortronCapacitor, Fortron Capacitor
 mffs:interdictionMatrix, Interdiction Matrix
-nuclearphysics:plasma, Plasma
 nuclearphysics:uranium_hexafluoride, Uranium Hexafluoride
+nuclearphysics:plasma, Plasma
 nuclearphysics:toxic_waste, Toxic Waste
 nuclearphysics:blockControlRod, Control Rod
 nuclearphysics:blockElectricTurbine, Electric Turbine
@@ -1527,6 +1527,42 @@ nuclearphysics:blockUraniumOre, Uranium Ore
 nuclearphysics:blockRadioactiveGrass, Radioactive Waste
 nuclearphysics:blockReactorCell, Reactor Cell
 nuclearphysics:blockCreativeBuilder, Creative Builder
+openmodularturrets:baseTierWood, Turret Base (Tier 1) 
+openmodularturrets:baseTierOneBlock, Turret Base (Tier 2) 
+openmodularturrets:baseTierTwoBlock, Turret Base (Tier 3) 
+openmodularturrets:baseTierThreeBlock, Turret Base (Tier 4) 
+openmodularturrets:baseTierFourBlock, Turret Base (Tier 5) 
+openmodularturrets:expanderPowerTierOne, Base Power Expander (Tier 1)
+openmodularturrets:expanderPowerTierTwo, Base Power Expander (Tier 2)
+openmodularturrets:expanderPowerTierThree, Base Power Expander (Tier 3)
+openmodularturrets:expanderPowerTierFour, Base Power Expander (Tier 4)
+openmodularturrets:expanderPowerTierFive, Base Power Expander (Tier 5)
+openmodularturrets:expanderInvTierOne, Base Inventory Expander (Tier 1)
+openmodularturrets:expanderInvTierTwo, Base Inventory Expander (Tier 2)
+openmodularturrets:expanderInvTierThree, Base Inventory Expander (Tier 3)
+openmodularturrets:expanderInvTierFour, Base Inventory Expander (Tier 4)
+openmodularturrets:expanderInvTierFive, Base Inventory Expander (Tier 5)
+openmodularturrets:hardWallTierOne, Hard Wall (Tier 1)
+openmodularturrets:hardWallTierTwo, Hard Wall (Tier 2)
+openmodularturrets:hardWallTierThree, Hard Wall (Tier 3)
+openmodularturrets:hardWallTierFour, Hard Wall (Tier 4)
+openmodularturrets:hardWallTierFive, Hard Wall (Tier 5)
+openmodularturrets:fenceTierOne, Fence (Tier 1)
+openmodularturrets:fenceTierTwo, Fence (Tier 2)
+openmodularturrets:fenceTierThree, Fence (Tier 3)
+openmodularturrets:fenceTierFour, Fence (Tier 4)
+openmodularturrets:fenceTierFive, Fence (Tier 5)
+openmodularturrets:disposeItemTurret, Disposable Item Turret
+openmodularturrets:potatoCannonTurret, Potato Cannon Turret
+openmodularturrets:machineGunTurret, Gun Turret
+openmodularturrets:incendiaryTurret, Incendiary Turret
+openmodularturrets:grenadeTurret, Grenade Launcher Turret
+openmodularturrets:relativisticTurret, Relativistic Turret
+openmodularturrets:rocketTurret, Rocket Launcher Turret
+openmodularturrets:teleporterTurret, Teleporter Turret
+openmodularturrets:laserTurret, Laser Turret
+openmodularturrets:railGunTurret, Rail Gun Turret
+openmodularturrets:leverBlock, Basic Turret Base Crank
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -1939,6 +1975,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - §6Orange Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §fWhite Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Salt Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Creative Builder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 1)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 2)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 3)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 4)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 5)
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -3051,6 +3092,40 @@ nuclearphysics:itemHazmatMask, Hazmat Mask
 nuclearphysics:itemHazmatBody, Hazmat Body
 nuclearphysics:itemHazmatLeggings, Hazmat Leggings
 nuclearphysics:itemHazmatBoots, Hazmat Boots
+openmodularturrets:bulletThrowable, Throwable Bullet
+openmodularturrets:grenadeThrowable, Throwable Grenade
+openmodularturrets:accuraccyUpgradeItem, Upgrade - Accuracy
+openmodularturrets:efficiencyUpgradeItem, Upgrade - Efficiency
+openmodularturrets:fireRateUpgradeItem, Upgrade - Fire Rate
+openmodularturrets:rangeUpgradeItem, Upgrade - Range
+openmodularturrets:scattershotUpgradeItem, Upgrade - Scattershot
+openmodularturrets:redstoneReactorAddon, Addon - Redstone Reactor
+openmodularturrets:damageAmpAddon, Addon - Damage Boost
+openmodularturrets:solarPanelAddon, Addon - Solar Generator
+openmodularturrets:recyclerAddon, Addon - Recycler
+openmodularturrets:concealerAddon, Addon - Turret Concealer
+openmodularturrets:serialPortAddon, Addon - Serial Port
+openmodularturrets:bulletCraftable, Ammo - Bullet
+openmodularturrets:blazingClayCraftable, Ammo - Blazing Clay
+openmodularturrets:grenadeCraftable, Ammo - Grenade
+openmodularturrets:rocketCraftable, Ammo - Rocket
+openmodularturrets:ferroSlug, Ammo - Ferro-Magnetic Slug
+openmodularturrets:sensorTierOneItem, Sensor (Tier 1)
+openmodularturrets:sensorTierTwoItem, Sensor (Tier 2)
+openmodularturrets:sensorTierThreeItem, Sensor (Tier 3)
+openmodularturrets:sensorTierFourItem, Sensor (Tier 4)
+openmodularturrets:sensorTierFiveItem, Sensor (Tier 5)
+openmodularturrets:barrelTierOne, Barrel (Tier 1)
+openmodularturrets:barrelTierTwo, Barrel (Tier 2)
+openmodularturrets:barrelTierThree, Barrel (Tier 3)
+openmodularturrets:barrelTierFour, Barrel (Tier 4)
+openmodularturrets:barrelTierFive, Barrel (Tier 5)
+openmodularturrets:chamberTierOne, Chamber (Tier 1)
+openmodularturrets:chamberTierTwo, Chamber (Tier 2)
+openmodularturrets:chamberTierThree, Chamber (Tier 3)
+openmodularturrets:chamberTierFour, Chamber (Tier 4)
+openmodularturrets:chamberTierFive, Chamber (Tier 5)
+openmodularturrets:ioBus, IO Bus
 voltzenginemodflag:ve.selectiontool, item.voltzenginemodflag:ve.selectiontool.name
 ForgeMicroblock:sawStone, Stone Saw
 ForgeMicroblock:sawIron, Iron Saw
