@@ -1,5 +1,5 @@
-#MODPACK VERSION: 0.4.1
-#Thu Aug 23 13:03:04 EDT 2018
+#MODPACK VERSION: 0.5.0
+#Thu Aug 23 13:09:08 EDT 2018
 mine-factory-reloaded=2.8.1
 biomes-o-plenty=2.1.0
 applied-energistics-2=rv3-beta-6
