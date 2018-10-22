@@ -1,0 +1,232 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "menu:logo.png",
+            "posX" : -45,
+            "posY" : -85,
+            "width" : 250,
+            "height" : 130,
+			"alignment":"center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -180,
+            "posY" : 25,
+            "width" : 120,
+            "height" : 20,
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -180,
+            "posY" : 50,
+            "width" : 120,
+            "height" : 20,
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+		
+		"options":
+        {
+            "text" : "menu.options",
+            "posX" : -180,
+            "posY" : 90,
+            "width" : 58,
+            "height" : 20,
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		
+		"mods":
+        {
+            "text" : "Mods",
+            "posX" : -118,
+            "posY" : 90,
+            "width" : 58,
+            "height" : 20,
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+		"official-server":
+		{
+			"text" : "Join Official Server",
+			"posX" : 20,
+            "posY" : 50,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "center",
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+			"action" : 
+            {
+                "type" : "connectToServer",
+				"ip" : "vcm.voidflame.com"
+            }
+		},
+
+		"discord":
+		{
+			"text" : "Discord",
+			"posX" : -150,
+            "posY" : 5,
+            "width" : 45,
+            "height" : 20,
+			"alignment" : "top_right",
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+			"action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://discord.gg/G7rYe49"
+            }
+		},
+		
+		"website":
+		{
+			"text" : "Website",
+			"posX" : -100,
+            "posY" : 5,
+            "width" : 45,
+            "height" : 20,
+			"alignment" : "top_right",
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+			"action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://voltzmodpack.com"
+            }
+		},
+		
+		"issues":
+		{
+			"text" : "Issues",
+			"posX" : -50,
+            "posY" : 5,
+            "width" : 45,
+            "height" : 20,
+			"alignment" : "top_right",
+			"texture":"menu:button.png",
+			"hoverTextColor": 16766720,
+			"action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/VoltzModpack/Voltz/issues"
+            }
+		},
+		
+		"refresh":
+        {
+            "text" : "",
+            "posX" : -75,
+            "posY" : -35,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "bottom_right",
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		        
+        "language":
+        {
+            "text" : "",
+            "posX" : -50,
+            "posY" : -35,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+		"quit":
+        {
+            "text" : "\u2715",
+            "posX" : -25,
+            "posY" : -35,
+            "width" : 20,
+            "height" : 20,
+			"fontSize":3,
+			"alignment":"bottom_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "menu:bg.png",
+			"mode" : "stretch"
+		},
+		
+		"menu-background":
+		{
+			"color": 255,
+			"width": 1000,
+			"height": 1000
+		}
+    }
+}
